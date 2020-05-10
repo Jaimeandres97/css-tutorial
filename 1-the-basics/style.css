@@ -1,0 +1,39 @@
+header {
+    background-color: rgba(129, 55, 55, 0.7);
+}
+
+article {
+    background-image: url('https://www.efesalud.com/files/2019/12/salud-660x311.png');
+    background-size: auto;
+}
+
+li{
+    color: blue;
+}
+
+blockquote{
+    font-size: large;
+    font-family: Arial;
+    font-weight: 100;
+}
+
+form {
+    background-color: rgba(170, 185, 32, 0.7);
+}
+
+button:hover {
+    background-color: rgba(23, 26, 211, 0.7);
+}
+
+footer {
+    background-color: rgba(129, 55, 55, 0.7);
+}
+
+footer {
+    background: rgba(206, 119, 21, 0.7);
+}
+
+address{
+    color: red;
+    font-size: small;
+}
