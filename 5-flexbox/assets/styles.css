@@ -1,0 +1,18 @@
+article {
+    width: 50%;
+}
+h1 {
+    background-color: tomato;
+    display: flex;
+    font-family: fantasy;
+    justify-content: center;
+}
+main {
+    background-image: url('https://media.istockphoto.com/vectors/blue-comic-background-vector-id954110240?k=6&m=954110240&s=170667a&w=0&h=RBjch6Rs6osoiQolfFHFN9XelNnZ5I8pncQuJ9SfaD8=');
+    background-size: cover;
+    display: flex;
+    flex-flow: row wrap;
+    color: ivory;
+    font-style: oblique;
+    justify-content: space-around;
+}
