@@ -1,0 +1,109 @@
+.art-1 {
+    background-image: url('https://static.iris.net.co/4patas/upload/images//2018/2/19/6888_1.jpg');
+    background-size: cover;
+    height: 305px;
+    width: 305px;
+}
+.art-2 {
+    background-image: url('https://t1.ea.ltmcdn.com/es/images/5/0/6/img_huesos_para_perros_cachorros_4605_orig.jpg');
+    background-size: cover;
+    height: 305px;
+    width: 305px;
+}
+.art-3 {
+    background-image: url('data:image/jpeg;base64,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');
+    background-size: cover;
+    height: 305px;
+    width: 305px;
+}
+.art-4 {
+    background-image: url('https://t1.uc.ltmcdn.com/images/5/4/6/img_como_alimentar_a_un_perro_cachorro_4645_orig.jpg');
+    background-size: cover;
+    height: 305px;
+    width: 305px;
+}
+.art-5 {
+    background-image: url('https://www.mundoperro.net/wp-content/uploads/criar-a-un-cachorro-de-perro.jpg');
+    background-size: cover;
+    height: 305px;
+    width: 305px;
+}
+.art-6 {
+    background-image: url('https://www.okchicas.com/wp-content/uploads/2015/11/Adorables-cachorros-que-no-parecen-reales-23.jpg');
+    background-size: cover;
+    height: 305px;
+    width: 305px;
+}
+body {
+    margin: 0;
+}
+.head-1 {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    grid-area: head-1;
+    padding-left: 30px;
+}
+.lorem {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    grid-area: lorem;
+}
+.top-1 {
+    color: white;
+    background-color: black;
+    display: grid;
+    font-family: Arial, Helvetica, sans-serif;
+    grid-area: top-1;
+    padding: 10px;
+}
+@media screen and (max-width: 600px) and (min-width: 320px) {
+    header {
+        background-image: url('https://blog.dogvivant.com/wp-content/uploads/2015/05/Los-perros-son-carn%C3%ADvoros_Dog-Vivant_BLOG-Portada-700x467@2x.jpg');
+        background-size: cover;
+        column-gap: 30px;
+        display: grid;
+        grid-template-areas: 'top-1'
+                              'head-1'
+                              'lorem';
+    }
+    article{
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: space-around;
+        padding: 70px;
+    }
+  }
+
+@media screen and (max-width: 1023px) and (min-width: 601px) {
+    header {
+        background-image: url('https://blog.dogvivant.com/wp-content/uploads/2015/05/Los-perros-son-carn%C3%ADvoros_Dog-Vivant_BLOG-Portada-700x467@2x.jpg');
+        background-size: cover;
+        column-gap: 30px;
+        display: grid;
+        grid-template-areas: 'top-1 top-1'
+                             'head-1 head-1'
+                             'lorem lorem';
+    }
+    article{
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: space-around;
+        padding: 70px;
+}
+}
+@media screen and (min-width: 1024px) {
+    header {
+        background-image: url('https://blog.dogvivant.com/wp-content/uploads/2015/05/Los-perros-son-carn%C3%ADvoros_Dog-Vivant_BLOG-Portada-700x467@2x.jpg');
+        background-size: cover;
+        column-gap: 30px;
+        display: grid;
+        grid-template-areas: 'top-1 top-1 top-1'
+                              'head-1 lorem lorem';
+    }
+    article{
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: space-around;
+        padding: 70px;
+    }
+}
